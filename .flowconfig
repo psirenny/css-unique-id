@@ -1,0 +1,8 @@
+[ignore]
+.*/.nyc_output
+.*/coverage
+.*/lib
+.*/node_modules/.*/test/.*
+
+[libs]
+flow-typed
