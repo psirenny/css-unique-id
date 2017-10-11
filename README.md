@@ -3,6 +3,10 @@
 Generate extremely short and unique css ids.
 Perfect for those obsessed with reducing the size of their html class names.
 
+[![CircleCI](https://circleci.com/gh/psirenny/css-unique-id/tree/master.svg?style=shield)](https://circleci.com/gh/psirenny/css-unique-id/tree/master)
+[![codecov](https://codecov.io/gh/psirenny/css-unique-id/branch/master/graph/badge.svg)](https://codecov.io/gh/psirenny/css-unique-id)
+[![Greenkeeper badge](https://badges.greenkeeper.io/psirenny/css-unique-id.svg)](https://greenkeeper.io/)
+
 # Usage
 
 ```
