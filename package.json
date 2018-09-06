@@ -27,7 +27,7 @@
     "codecov.io": "0.1.6",
     "eslint": "4.19.0",
     "eslint-config-airbnb-base": "12.1.0",
-    "eslint-plugin-babel": "4.1.2",
+    "eslint-plugin-babel": "5.2.0",
     "eslint-plugin-flowtype": "2.45.0",
     "eslint-plugin-import": "2.11.0",
     "fixpack": "2.3.1",
