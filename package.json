@@ -35,7 +35,7 @@
     "flow-remove-types": "1.2.2",
     "fs-extra": "5.0.0",
     "husky": "0.15.0-rc.2",
-    "npm-run-all": "4.1.2",
+    "npm-run-all": "4.1.4",
     "nsp": "3.2.0",
     "nyc": "11.6.0",
     "standard-version": "4.3.0",
