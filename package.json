@@ -16,7 +16,7 @@
     "bases": "0.2.1"
   },
   "devDependencies": {
-    "async": "2.6.0",
+    "async": "3.0.1",
     "ava": "0.25.0",
     "babel-eslint": "8.2.2",
     "babel-loader": "7.1.3",
