@@ -32,7 +32,7 @@
     "eslint-plugin-import": "2.11.0",
     "fixpack": "2.3.1",
     "flow-bin": "0.68.0",
-    "flow-remove-types": "1.2.2",
+    "flow-remove-types": "2.106.2",
     "fs-extra": "5.0.0",
     "husky": "0.15.0-rc.2",
     "npm-run-all": "4.1.2",
