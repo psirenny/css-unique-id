@@ -30,7 +30,7 @@
     "eslint-plugin-babel": "4.1.2",
     "eslint-plugin-flowtype": "2.45.0",
     "eslint-plugin-import": "2.11.0",
-    "fixpack": "2.3.1",
+    "fixpack": "3.0.3",
     "flow-bin": "0.68.0",
     "flow-remove-types": "1.2.2",
     "fs-extra": "5.0.0",
